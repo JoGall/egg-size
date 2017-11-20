@@ -1,0 +1,4 @@
+image	egg	width	length	
+28_HK_NS.tif	1	116.026	207.356	
+28_HK_NS.tif	2	197.711	106.918	
+28_HK_NS.tif	3	100.673	195.611	
